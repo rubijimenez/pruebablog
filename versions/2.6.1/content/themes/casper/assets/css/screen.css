@@ -113,7 +113,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: rgba(16, 139, 240, 1) !important
+    background: rgba(16, 139, 240, 1); 
     background-size: cover;
 }
 
@@ -126,7 +126,7 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(16, 139, 240, 1) !important
+    background: rgba(16, 139, 240, 1);
 }
 
 .site-header:after {
